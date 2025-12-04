@@ -21,6 +21,6 @@ Es un dispositivo, ya sea físico o virtual, que funciona como un sistema de ent
 Es un proceso iterativo entrelazado entre la selección de datos, la evaluación del modelo y la reevaluación. El proceso continúa hasta que los datos se encuentran en un formato que es procesable por los modelos de ML y permite que esos modelos puedan generar resultados accionables.
 
 
-7. ✌️ **Aprendizaje por transferencia**
+7. ✌️ **APRENDIZAJE POR TRANSFERENCIA**
 El aprendizaje por transferencia es una técnica de machine learning en la que los conocimientos adquiridos a través de una tarea o conjunto de datos se utilizan para mejorar el rendimiento del modelo en otra tarea relacionada o en un conjunto de datos diferente.  
 
